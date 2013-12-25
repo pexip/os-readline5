@@ -1,3 +1,9 @@
+readline5 (5.2-11pexip1) pexip; urgency=low
+
+  * Prepare Pexip packaging
+
+ -- John-Mark Bell <jmb@pexip.com>  Wed, 25 Dec 2013 04:25:16 +0000
+
 readline5 (5.2-11) unstable; urgency=low
 
   * Do not link against any libncurses* library, just against libtinfo.
